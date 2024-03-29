@@ -1,0 +1,7 @@
+clear all;
+clc
+
+ValoresSistema
+ValoresSuperficies
+ValoresPosicionTrayectoria
+LMI
